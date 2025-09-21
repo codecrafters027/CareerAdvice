@@ -6,3 +6,7 @@ python-jose
 pydantic
 PyPDF2
 reportlab
+streamlit
+plotly
+pandas
+requests
